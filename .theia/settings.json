@@ -1,0 +1,5 @@
+{
+    "editor.autoSaveDelay": 5000,
+    "editor.autoSave": "on",
+    "eslint.autoFixOnSave": false
+}
